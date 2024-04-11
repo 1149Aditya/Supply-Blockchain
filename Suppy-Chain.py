@@ -2,7 +2,7 @@
 import hashlib as hasher
 import datetime as date
 
-from Crypto.Hash import SHA256
+from Crypto.Hash import SHA-256
 from Crypto.PublicKey import RSA
 from Crypto import Random
 from Crypto.Signature import pkcs1_15
